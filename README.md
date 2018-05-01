@@ -1,4 +1,4 @@
-# react experience
+# React Experience
 
 I will post everything from simple to more complex application as I progress in my studies.
 
