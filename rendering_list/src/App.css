@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  padding: 10px;
+}
+
+.App input {
+  width: 60%;
+  font-size: 1.4em;
+}
